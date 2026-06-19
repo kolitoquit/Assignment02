@@ -10,4 +10,4 @@ if (firstNum > secondNum) {
     result = "Both numbers are equal";
 }
 
-alert(result);
+document.write(result);
