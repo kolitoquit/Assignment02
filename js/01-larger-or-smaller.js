@@ -1,5 +1,5 @@
-let firstNum = prompt("Enter a number between 1 and 10");
-let secondNum = prompt("Enter a another number between 1 and 10");
+let firstNum = parseInt(prompt("Enter a number between 1 and 10"));
+let secondNum = parseInt(prompt("Enter a another number between 1 and 10"));
 
 let result;
 if (firstNum > secondNum) {
